@@ -1,0 +1,8 @@
+/target
+/checkpoints/*
+!/checkpoints/.gitkeep
+/data/raw/*
+*.safetensors
+*.bin
+*.gguf
+.DS_Store
